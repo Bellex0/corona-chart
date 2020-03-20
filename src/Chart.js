@@ -5,7 +5,7 @@ import moment from 'react-moment';
 
 
 
-export default class Trail extends Component {
+export default class Chart extends Component {
   constructor(props) {
     super(props);
     this.state = {
